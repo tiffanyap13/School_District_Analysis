@@ -4,7 +4,7 @@
 The school board has discovered evidence of academic dishonesty; specifically, the reading and math grades for Thomas High School ninth graders appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards and have turned to our team for help. We have been tasked with replacing the math and reading scores for Thomas High School with 'NaNs' while keeping the rest of the data intact. Upon replacing the math and reading scores, we will repeat the school district analysis which will allow us to see how the clean data compares to the original data.
 
 ## Results
- - The following sections of the district summary were affected: Average Math Score, % Passing Math, % Passing Reading, and % Overall Passing.  Average Math decreased by 0.1, % Passing Math decreased by 0.2%, % Passing Reading decreased by 0.1%, and % Overall Passing decreased by 0.3%. 
+The following sections of the district summary were affected: Average Math Score, % Passing Math, % Passing Reading, and % Overall Passing.  Average Math decreased by 0.1, % Passing Math decreased by 0.2%, % Passing Reading decreased by 0.1%, and % Overall Passing decreased by 0.3%. 
  ### District Data
  #### Original District Data
  ![Original District Data](Resources/Original_District_Data.png)
