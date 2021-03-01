@@ -7,9 +7,9 @@ The school board has discovered evidence of academic dishonesty; specifically, t
 The following sections of the district summary were affected: Average Math Score, % Passing Math, % Passing Reading, and % Overall Passing.  Average Math decreased by 0.1, % Passing Math decreased by 0.2%, % Passing Reading decreased by 0.1%, and % Overall Passing decreased by 0.3%. 
  ### District Data
  #### Original District Data
- ![Original District Data](Resources/Original_District_Data.png)
+ ![Original District Data](Resources/Original_District_Data.png) 
  #### Revised District Data
- ![Revised District Data](Resources/District_Data_Revised.png).
+ ![Revised District Data](Resources/District_Data_Revised.png)
  - The only section of the school summary affected was the Thomas High School line as we removed the Thomas High School 9th Grade math and reading scores.
  - Replacing the 9th graders’ math and reading scores significantly affected Thomas High School’s performance relative to the other schools. Upon removing the 9th grade scores and re-running that data, the % Passing Math, % Passing Reading, and % Overall Passing drastically decreased as follows:
    - % Passing Math decreased from 93.3% to 66.9%
